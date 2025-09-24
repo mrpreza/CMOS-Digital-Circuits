@@ -181,5 +181,3 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 
 ---
-
-**⚠️ Note**: The technology library file (`mosistsmc180.lib`) is not included in this repository due to licensing restrictions. Please obtain it from authorized sources or your institution.
